@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestRateNoticeIssuesWorker", "InterestRateNoticeIssuesWorker\InterestRateNoticeIssuesWorker.csproj", "{56FDC376-2CFD-4947-A0BD-AF69351BDF3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FDC376-2CFD-4947-A0BD-AF69351BDF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FDC376-2CFD-4947-A0BD-AF69351BDF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FDC376-2CFD-4947-A0BD-AF69351BDF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FDC376-2CFD-4947-A0BD-AF69351BDF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1038ECC7-A6EF-4063-9338-DA909BF2016D}
+	EndGlobalSection
+EndGlobal
